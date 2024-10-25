@@ -14,7 +14,7 @@ const Login = () => {
       return;
     }
 
-    alert('exelente');
+    alert('')
   };
 
   return (
